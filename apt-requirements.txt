@@ -1,0 +1,6 @@
+openssl
+libpcre3-dev
+libssl-dev
+libxslt1-dev
+libgd2-xpm-dev #--with-http_image_filter_module
+libgeoip-dev
